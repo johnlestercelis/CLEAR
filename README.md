@@ -1,5 +1,10 @@
 # CLEAR
 
+
+### Build and Runtime Requirements
++ Xcode 11.0 or later
++ iOS 11.0 or later
+
 ### Setup and Installation 
 
 - Add pod in podfile first, format your code like this:
@@ -19,4 +24,5 @@ $ cd ~/Users/johnlestercelis/Desktop/CLEAR
 $ pod install
 ```
 
-
+# Usage
+- Open the xcworkspace project not the xcodeproj and run it
